@@ -1,0 +1,14 @@
+node_modules
+.turbo
+.vscode
+dist
+build
+.next
+out
+coverage
+.env
+.env.*local
+logs
+*.log
+.pnpm-debug.log*
+.DS_Store
